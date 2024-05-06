@@ -4,20 +4,20 @@
 
 ## 👨‍💻 Sobre Mim
 
-Arquiteto de Soluções de Mídia | Especialista em Transmissões ao Vivo | Líder em Infraestrutura Tecnológica
+Head de Plataformas Digitais e Operações | Especialista em Streaming| Head em Infraestrutura Tecnológica
 
-Sou um Engenheiro de Software apaixonado por soluções inovadoras no setor de mídia. Com mais de 4 anos de experiência em desenvolvimento backend, domino as linguagens Python e PHP, e sou proficiente em tecnologias como Docker, MySQL, Nginx e o ecossistema AWS (Cloudfront, RDS, S3, EC2 e VPC).
+Sou Engenheiro de Software apaixonado por soluções inovadoras no setor de plataformas digitais. Com mais de 4 anos de experiência em desenvolvimento backend, domino as linguagens Go, Python e PHP, e em tecnologias como Docker, MySQL, Nginx e o ecossistema AWS (Cloudfront, RDS, S3, EC2 e VPC).
 
-Minha especialidade reside em ferramentas de transmissão ao vivo, desde a ingestão até a distribuição. Possuo expertise em superar desafios técnicos, garantindo experiências de streaming fluidas e de alta qualidade.
+Minha especialidade reside em ferramentas de streaming, desde o ingest até a distribuição. Possuo expertise em superar desafios técnicos, garantindo experiências de streaming fluidas e de alta qualidade.
 
 Lidero a criação de infraestruturas tecnológicas avançadas para empresas de mídia, projetando sistemas escaláveis, seguros e eficientes. Integro as últimas tendências tecnológicas para impulsionar a entrega e personalização de conteúdo digital, sempre com foco em alinhar inovações técnicas com objetivos de negócios.
 
 ## 🚀 Principais Pontos Fortes
 
-- Especialista em transmissões ao vivo
+- Especialista em streaming
+- Head de Plataformas Digitais
 - Arquiteto de soluções de mídia
 - Líder em infraestrutura tecnológica
-- Desenvolvimento backend (Python, PHP)
 - Tecnologias AWS (Cloudfront, RDS, S3, EC2, VPC)
 - Docker, MySQL, Nginx
 - Habilidades de comunicação e liderança
